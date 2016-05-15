@@ -46,12 +46,16 @@ div {
   height: 85vh;
 }
 
+.column h2 {
+  text-align: center;
+}
+
 .column {
   float: left;
   width: 25%;
   padding: 2em;
   margin: 0;
-  text-align: justify;
+  text-align: left;
 }
 
 .column img {
@@ -64,7 +68,11 @@ div {
 footer {
   background-color: #cccccc;
   text-align: left;
-  padding: 2em;
+  padding: 4em;
+}
+
+footer img {
+  width: 3em;
 }
 
 .clearfix:after {
