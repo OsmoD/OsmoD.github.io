@@ -1,6 +1,6 @@
 <?php
-	$to = "company@youremail.com"; /*Your Email*/
-	$subject = "Join dating"; /*Issue*/
+	$to = "info@japancombines.com"; /*Your Email*/
+	$subject = "Join Newsletter"; /*Issue*/
 	$date = date ("l, F jS, Y"); 
 	$time = date ("h:i A"); 	
 	//$Email=$_REQUEST['Email'];
